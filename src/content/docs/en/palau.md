@@ -20,26 +20,26 @@ https://www.mofa.go.jp/region/asia-paci/palau/data.html (checked on 5th June, 20
 
 # Palau Photos
 
-<img src="../images/palau/s-1311.JPG">  
-<img src="../images/palau/s-1315.JPG">  
-<img src="../images/palau/s-1317.JPG">  
-<img src="../images/palau/s-1319.JPG">  
-<img src="../images/palau/s-1324.JPG">  
-<img src="../images/palau/s-1326.JPG">  
-<img src="../images/palau/s-1379.JPG">  
-<img src="../images/palau/s-1463.JPG">  
-<img src="../images/palau/s-1490.JPG">  
-<img src="../images/palau/s-1491.JPG">  
-<img src="../images/palau/s-1514.JPG">  
-<img src="../images/palau/s-1538.JPG">  
-<img src="../images/palau/s-1542.JPG">  
-<img src="../images/palau/s-1559.JPG">  
-<img src="../images/palau/s-1655.JPG">  
-<img src="../images/palau/s-1704.JPG">  
-<img src="../images/palau/s-1727.JPG">  
-<img src="../images/palau/s-1758.JPG">  
-<img src="../images/palau/s-1776.JPG">  
-<img src="../images/palau/s-1810.JPG">  
-<img src="../images/palau/s-1836.JPG">
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1311.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1315.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1317.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1319.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1324.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1326.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1379.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1463.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1490.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1491.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1514.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1538.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1542.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1559.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1655.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1704.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1727.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1758.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1776.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1810.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau//s-1836.JPG">
 
 ©Daichi Uchibori 2023 All Rights Reserved.
