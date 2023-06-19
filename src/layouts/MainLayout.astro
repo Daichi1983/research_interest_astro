@@ -23,6 +23,18 @@ const githubEditUrl = `${GITHUB_EDIT_URL}/${currentFile}`;
 
 <html dir={data.dir} lang={data.lang} class="initial">
 	<head>
+
+		<!-- Google tag (gtag.js) -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-HC8L3TSK1C"></script>
+			<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'G-HC8L3TSK1C');
+			</script>
+
+
 		<HeadCommon />
 		<HeadSEO {...data} canonicalUrl={canonicalURL} />
 		<title>
@@ -117,19 +129,6 @@ const githubEditUrl = `${GITHUB_EDIT_URL}/${currentFile}`;
 				top: 2rem;
 			}
 		</style>
-
-
-        <!-- Google tag (gtag.js) -->
-        <script type="text/partytown" src="https://www.googletagmanager.com/gtag/js?id=UA-42613638-15"></script>
-        <script type="text/partytown">
-            window.dataLayer = window.dataLayer || [];
-            function gtag() {
-                dataLayer.push(arguments);
-            }
-            gtag('js', new Date());
-            gtag('config', 'UA-42613638-15');
-        </script>
-
 	</head>
 
 	<body>
