@@ -12,9 +12,8 @@ export default defineConfig({
 		// Enable React for the Algolia search component.
 		react(),
 		partytown({
-			// Adds dataLayer.push as a forwarding-event.
 			config: {
 			  forward: ["dataLayer.push"],
-	],
-	site: `https://astro.build`,
-});
+			},
+		  }),
+	});
