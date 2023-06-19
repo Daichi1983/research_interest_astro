@@ -11,6 +11,4 @@ export default defineConfig({
 		react(),
 	],
 	site: `https://astro.build`,
-	react: '@astrojs/renderer-react' // レンダラーとして react を使用する
 });
-
