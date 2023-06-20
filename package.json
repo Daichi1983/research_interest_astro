@@ -13,6 +13,8 @@
     "@algolia/client-search": "^4.17.0",
     "@astrojs/preact": "^2.2.1",
     "@astrojs/react": "^2.2.1",
+    "@astrojs/renderer-preact": "^0.5.0",
+    "@astrojs/renderer-react": "^0.5.0",
     "@docsearch/css": "^3.3.4",
     "@docsearch/react": "^3.3.4",
     "@types/node": "^18.16.3",

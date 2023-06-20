@@ -12,6 +12,10 @@ I have loved languages since I was a high school student, and I happend to come 
 
 There is a wide range of information about Palau on the Internet, and if you look for it, you will find it. However, if you do not know about Palau, you will not be able to find it. For example, the Palauan diet is conscious of Odoim (staple food), which is mainly starch, and Ongraol (side dishes), which is mainly protein, as described in [Senri Ethnological Report (SER) 1980, Vol. 5, No. 2](http://test-minpaku.com/research/activity/publication/periodical/bulletin/05_2), but it is very difficult to find it if you do not know it. In addition, although recently, with the development of the Internet, it has become possible to see photos and videos of Sonsorol and Tobi, the southwestern islands of Palau, an overview of their language is still not available in Capell, Arthur. Grammar and vocabulary of the language of Washington: Pacific Science Office, National Research Council, 1951.
 
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1514.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1704.JPG">  
+Odoim and Ongraol  
+
 We would like to make this website a place where we can write and accumulate small articles like this.
 
 ## Technical Explanation

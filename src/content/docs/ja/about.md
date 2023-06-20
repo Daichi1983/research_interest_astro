@@ -11,6 +11,10 @@ description: "私設パラオ大使館研究室について"
 
 パラオについても広いインターネット上、探せば様々な情報が出てきます。しかし知っていないと出てきません。例えばパラオの食事ではでんぷん質を中心としたOdoim（主食）とタンパク質を中心としたOngraol（副菜）が意識されることなどは、[国立民族学博物館研究報告 1980 5巻2号](http://test-minpaku.com/research/activity/publication/periodical/bulletin/05_2)に載っていますが知らないと見つけるのは大変むずかしい。また、最近はインターネットの発達によりパラオの南西諸島であるソンソロル島やトビ島の写真や映像は見られるようになってきましたが、それらの言語の概要についてはいまだにCapell, Arthur. Grammar and vocabulary of the language of Sonsorol-Tobi. Washington: Pacific Science Office, National Research Council, 1951という論文を頼みの綱にするしかありません。
 
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1514.JPG">  
+<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1704.JPG">  
+OdoimとOngraol  
+
 こうした小さなことから少しずつ書いて蓄積していくウェブサイトにしたいと考えています。
 
 

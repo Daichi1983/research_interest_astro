@@ -30,12 +30,10 @@ https://www.mofa.go.jp/mofaj/area/palau/data.html （2021年8月11日閲覧）
 <img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1463.JPG">  
 <img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1490.JPG">  
 <img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1491.JPG">  
-<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1514.JPG">  
 <img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1538.JPG">  
 <img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1542.JPG">  
 <img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1559.JPG">  
 <img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1655.JPG">  
-<img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1704.JPG">  
 <img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1727.JPG">  
 <img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1758.JPG">  
 <img src="https://raw.githubusercontent.com/Daichi1983/research_interest_astro/main/src/content/docs/images/palau/s-1776.JPG">  
