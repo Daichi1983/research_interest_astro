@@ -1157,6 +1157,13 @@
   "resolved" "https://registry.npmjs.org/cookie/-/cookie-0.5.0.tgz"
   "version" "0.5.0"
 
+"cross-fetch@^3.1.6":
+  "integrity" "sha512-riRvo06crlE8HiqOwIpQhxwdOk4fOeR7FVM/wXoxchFEqMNUjvbs3bfo4OTgMEMHzppd4DxFBDbyySj8Cv781g=="
+  "resolved" "https://registry.npmjs.org/cross-fetch/-/cross-fetch-3.1.6.tgz"
+  "version" "3.1.6"
+  dependencies:
+    "node-fetch" "^2.6.11"
+
 "cross-spawn@^7.0.3":
   "integrity" "sha512-iRDPJKUPVEND7dHPO8rkbOnPpyDygcDFtWjpeWNCgy8WP2rXcxXL8TskReQl6OrB2G7+UJrags1q15Fudc7G6w=="
   "resolved" "https://registry.npmjs.org/cross-spawn/-/cross-spawn-7.0.3.tgz"
@@ -1239,6 +1246,11 @@
   "integrity" "sha512-+HlytyjlPKnIG8XuRG8WvmBP8xs8P71y+SKKS6ZXWoEgLuePxtDoUEiH7WkdePWrQ5JBpE6aoVqfZfJUQkjXwA=="
   "resolved" "https://registry.npmjs.org/dlv/-/dlv-1.1.3.tgz"
   "version" "1.1.3"
+
+"dotenv@^16.3.1":
+  "integrity" "sha512-IPzF4w4/Rd94bA9imS68tZBaYyBWSCE47V1RGuMrB94iyTOIEwRmVL2x/4An+6mETpLrKJ5hQkB8W4kFAadeIQ=="
+  "resolved" "https://registry.npmjs.org/dotenv/-/dotenv-16.3.1.tgz"
+  "version" "16.3.1"
 
 "dset@^3.1.2":
   "integrity" "sha512-g/M9sqy3oHe477Ar4voQxWtaPIFw1jTdKZuomOjhCcBx9nHUNn0pu6NopuFFrTh/TRZIKEj+76vLWFu9BNKk+Q=="
@@ -2058,6 +2070,13 @@
   dependencies:
     "@types/mdast" "^3.0.0"
 
+"meilisearch@^0.33.0":
+  "integrity" "sha512-bYPb9WyITnJfzf92e7QFK8Rc50DmshFWxypXCs3ILlpNh8pT15A7KSu9Xgnnk/K3G/4vb3wkxxtFS4sxNkWB8w=="
+  "resolved" "https://registry.npmjs.org/meilisearch/-/meilisearch-0.33.0.tgz"
+  "version" "0.33.0"
+  dependencies:
+    "cross-fetch" "^3.1.6"
+
 "merge-stream@^2.0.0":
   "integrity" "sha512-abv/qOcuPfk3URPfDzmZU1LKmuw8kT+0nIHvKrKgFrwifol/doWcdA4ZqsWQ8ENrFKkd67Mfpo/LovbIUsbt3w=="
   "resolved" "https://registry.npmjs.org/merge-stream/-/merge-stream-2.0.0.tgz"
@@ -2397,6 +2416,13 @@
   "version" "3.1.1"
   dependencies:
     "@types/nlcst" "^1.0.0"
+
+"node-fetch@^2.6.11":
+  "integrity" "sha512-4I6pdBY1EthSqDmJkiNk3JIT8cswwR9nfeW/cPdUagJYEQG7R95WRH74wpz7ma8Gh/9dI9FP+OU+0E4FvtA55w=="
+  "resolved" "https://registry.npmjs.org/node-fetch/-/node-fetch-2.6.11.tgz"
+  "version" "2.6.11"
+  dependencies:
+    "whatwg-url" "^5.0.0"
 
 "node-releases@^2.0.12":
   "integrity" "sha512-QzsYKWhXTWx8h1kIvqfnC++o0pEmpRQA/aenALsL2F4pqNVr7YzcdMlDij5WBnwftRbJCNJL/O7zdKaxKPHqgQ=="
@@ -2805,6 +2831,11 @@
     "retext-smartypants" "^5.1.0"
     "unist-util-visit" "^4.1.0"
 
+"remove-markdown@^0.5.0":
+  "integrity" "sha512-x917M80K97K5IN1L8lUvFehsfhR8cYjGQ/yAMRI9E7JIKivtl5Emo5iD13DhMr+VojzMCiYk8V2byNPwT/oapg=="
+  "resolved" "https://registry.npmjs.org/remove-markdown/-/remove-markdown-0.5.0.tgz"
+  "version" "0.5.0"
+
 "reselect@^4.1.7":
   "integrity" "sha512-ab9EmR80F/zQTMNeneUr4cv+jSwPJgIlvEmVwLerwrWVbpLlBuls9XHzIeTFy4cegU2NHBp3va0LKOzU5qFEYQ=="
   "resolved" "https://registry.npmjs.org/reselect/-/reselect-4.1.8.tgz"
@@ -3165,6 +3196,11 @@
   dependencies:
     "is-number" "^7.0.0"
 
+"tr46@~0.0.3":
+  "integrity" "sha512-N3WMsuqV66lT30CrXNbEjx4GEwlow3v6rr4mCcv6prnfwhS01rkgyFdjPNBYd9br7LpXV1+Emh01fHnq2Gdgrw=="
+  "resolved" "https://registry.npmjs.org/tr46/-/tr46-0.0.3.tgz"
+  "version" "0.0.3"
+
 "trim-lines@^3.0.0":
   "integrity" "sha512-kRj8B+YHZCc9kQYdWfJB2/oUl9rA99qbowYYBtr4ui4mZyAQ2JpvVBd/6U2YloATfqBhBTSMhTpgBHtU0Mf3Rg=="
   "resolved" "https://registry.npmjs.org/trim-lines/-/trim-lines-3.0.1.tgz"
@@ -3441,6 +3477,19 @@
   "integrity" "sha512-bKr1DkiNa2krS7qxNtdrtHAmzuYGFQLiQ13TsorsdT6ULTkPLKuu5+GsFpDlg6JFjUTwX2DyhMPG2be8uPrqsQ=="
   "resolved" "https://registry.npmjs.org/web-namespaces/-/web-namespaces-2.0.1.tgz"
   "version" "2.0.1"
+
+"webidl-conversions@^3.0.0":
+  "integrity" "sha512-2JAn3z8AR6rjK8Sm8orRC0h/bcl/DqL7tRPdGZ4I1CjdF+EaMLmYxBHyXuKL849eucPFhvBoxMsflfOb8kxaeQ=="
+  "resolved" "https://registry.npmjs.org/webidl-conversions/-/webidl-conversions-3.0.1.tgz"
+  "version" "3.0.1"
+
+"whatwg-url@^5.0.0":
+  "integrity" "sha512-saE57nupxk6v3HY35+jzBwYa0rKSy0XR8JSxZPwgLr7ys0IBzhGviA1/TUGJLmSVqs8pb9AnvICXEuOHLprYTw=="
+  "resolved" "https://registry.npmjs.org/whatwg-url/-/whatwg-url-5.0.0.tgz"
+  "version" "5.0.0"
+  dependencies:
+    "tr46" "~0.0.3"
+    "webidl-conversions" "^3.0.0"
 
 "which-pm-runs@^1.1.0":
   "integrity" "sha512-n1brCuqClxfFfq/Rb0ICg9giSZqCS+pLtccdag6C2HyufBrh3fBOiy9nb6ggRMvWOVH5GrdJskj5iGTZNxd7SA=="
